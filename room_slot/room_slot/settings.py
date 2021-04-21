@@ -80,7 +80,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         # 'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
-        'NAME': 'hotel_management_final',
+        'NAME': 'hotel_management_new',
         'HOST': '127.0.0.1',
         'PORT': '3306',
         'USER': 'root',
